@@ -12,13 +12,13 @@
 
 **Навыки и инструменты:**
 
-python
-pandas
-seaborn 
-numpy 
-matplotlib
-plotly
-collections
+-python
+- pandas
+- seaborn 
+- numpy 
+- matplotlib
+- plotly
+- collections
 
 
 **Выводы и рекомендации:**
