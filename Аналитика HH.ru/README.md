@@ -12,7 +12,7 @@
 
 **Навыки и инструменты:**
 
--python
+- python
 - pandas
 - seaborn 
 - numpy 
